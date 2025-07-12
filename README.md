@@ -13,14 +13,19 @@ This repository and all projects within it were created by Stefano Gonan, PhD.
 ----------------------------------------------------------------------------
 
 ################################################################################
-Project 1 Excel
+Manufacturing Downtime Analysis
 ################################################################################
 
-**TLDR**:  
+**Overview**: In this project, I analyzed bottling line data to evaluate operator-specific efficiency, identified primary downtime causes using a Pareto approach, and quantified downtime by operator and factor through a matrix analysis. Based on these findings, I recommended targeted training programs and preventive maintenance practices to improve production efficiency and minimize downtime. 
 
 **Description**: 
 
-**Skills**: 
+**Tools**: <img width="18" height="20" alt="image" src="https://github.com/user-attachments/assets/00d8ee75-9b99-48d9-a32e-3f66b8ac5fa8" />
+
+
+
+
+**Skills**:
 
 **Link to Notebook**: 
 
