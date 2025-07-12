@@ -2,7 +2,9 @@
 My Portfolio
 ================================================================================
 
-Text here 
+This repository serves as a curated portfolio of my data analytics projects, encompassing a variety of analyses, business cases, and exploratory data studies. Here, you’ll find both personal and work-realted projects that highlight my skills in data wrangling, statistical modeling, visualization, and business intelligence.
+
+Each project includes a brief overview and a description, the tools and techniques used (such as Python, SQL, Excel, Power BI, or Tableau), and links to datasets and detailed documentation.
 
 .. contents::
 
