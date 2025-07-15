@@ -36,9 +36,9 @@ Manufacturing Downtime Analysis
 Project 2 Tableau
 ################################################################################
 
-**TLDR**: Analyzing 41,000+ passenger reviews from 100+ airlines, I built an interactive Tableau dashboard visualizing satisfaction trends across 8 service categories and 7 global regions to uncover actionable insights in critical improvement areas.
+**TLDR**: Transformed 41,000+ Skytrax passenger reviews into an interactive Tableau dashboard for British Airways, identifying critical improvement areas across 8 service categories and 7 global regions.
 
-**Description**: One of the fundamental aspects of business intelligence is collecting and analysing customer satisfaction data to identify areas of strength and weakness, and implement strategies to improve the efficiency and value. For this project, I used the Skytrax Airline Reviews dataset, which contains over 41,000 reviews from airline passengers rating eight service categories (e.g. cabin crew, food and seat comfort). In particular, I created an interactive Tableau dashboard that enables users to filter data according to different analytical categories, including service categories, traveller type (e.g. business, leisure), seat type (e.g. economy, business, first class), airline, 7 global regions, and a period of time spanning from 1970 to 2015.
+**Description**: I developed a business intelligence dashboard analyzing 41,000+ passenger reviews from 100+ airlines to empower them with actionable customer experience insights. In particular, the interactive visualisation—based on the Skytrax Airline Reviews dataset—tracks satisfaction trends for a period of time ranging from 1970 to 2015 across 8 service categories—including cabin staff, seat comfort, and inflight entertainment—using dynamic filters for airline company, traveller type (e.g. business, leisure), seat type (e.g. economy, business, first class), and geographic regions.
 
 **Tools**: <img width="80" height="60" alt="image" src="https://github.com/user-attachments/assets/22fad4cd-af7c-4c31-a2cd-2844afd10593" />
 
