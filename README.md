@@ -42,7 +42,7 @@ Project 2 Tableau
 
 **Tools**: <img width="80" height="60" alt="image" src="https://github.com/user-attachments/assets/22fad4cd-af7c-4c31-a2cd-2844afd10593" />
 
-**Skills**: Dashboard Design | Trend Analysis | Customer Experience Metrics | Data Storytelling | Interactive Visualization | KPI Tracking
+**Skills**: Dashboard Design | Trend Analysis | Customer Experience Metrics | KPI Tracking | Interactive Data Storytelling
 
 **Link to Notebook**: 
 
