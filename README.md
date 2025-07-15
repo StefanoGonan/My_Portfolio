@@ -13,7 +13,7 @@ This repository and all projects within it were created by Stefano Gonan, PhD.
 ----------------------------------------------------------------------------
 
 ################################################################################
-Manufacturing Downtime Analysis
+Bottling Line Efficiency Rescue | Downtime Reduction Strategy
 ################################################################################
 
 **Overview**: In this project, I analyzed bottling line data to evaluate operator-specific efficiency, identified primary downtime causes using a Pareto approach, and quantified downtime by operator and factor through a matrix analysis. Based on these findings, I recommended targeted training programs and preventive maintenance practices to improve production efficiency and minimize downtime. 
@@ -33,10 +33,10 @@ Manufacturing Downtime Analysis
 ----------------------------------------------------------------------------
     
 ################################################################################
-Project 2 Tableau
+The 41,000-Foot View: Decoding Airlines Passengers Satisfaction
 ################################################################################
 
-**TLDR**: Transformed 41,000+ Skytrax passenger reviews into an interactive Tableau dashboard for British Airways, identifying critical improvement areas across 8 service categories and 7 global regions.
+**Overview**: Transformed 41,000+ Skytrax passenger reviews into an interactive Tableau dashboard for British Airways, identifying critical improvement areas across 8 service categories and 7 global regions.
 
 **Description**: I developed a business intelligence dashboard analyzing 41,000+ passenger reviews from 100+ airlines to empower them with actionable customer experience insights. In particular, the interactive visualisation—based on the Skytrax Airline Reviews dataset—tracks satisfaction trends for a period of time ranging from 1970 to 2015 across 8 service categories—including cabin staff, seat comfort, and inflight entertainment—using dynamic filters for airline company, traveller type (e.g. business, leisure), seat type (e.g. economy, business, first class), and geographic regions.
 
