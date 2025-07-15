@@ -38,10 +38,9 @@ Project 2 Tableau
 
 **TLDR**: Analyzing 41,000+ passenger reviews from 100+ airlines, I built an interactive Tableau dashboard visualizing satisfaction trends across 8 service categories and 7 global regions to uncover actionable insights in critical improvement areas.
 
-**Description**: 
+**Description**: One of the fundamental aspects of business intelligence is collecting and analysing customer satisfaction data to identify areas of strength and weakness, and implement strategies to improve the efficiency and value. For this project, I used the Skytrax Airline Reviews dataset, which contains over 41,000 reviews from airline passengers rating eight service categories (e.g. cabin crew, food and seat comfort). In particular, I created an interactive Tableau dashboard that enables users to filter data according to different analytical categories, including service categories, traveller type (e.g. business, leisure), seat type (e.g. economy, business, first class), airline, 7 global regions, and a period of time spanning from 1970 to 2015.
 
 **Tools**: <img width="80" height="60" alt="image" src="https://github.com/user-attachments/assets/22fad4cd-af7c-4c31-a2cd-2844afd10593" />
-
 
 **Skills**: Dashboard Design | Trend Analysis | Customer Experience Metrics | Data Storytelling | Interactive Visualization | KPI Tracking
 
