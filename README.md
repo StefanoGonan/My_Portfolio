@@ -36,11 +36,14 @@ Manufacturing Downtime Analysis
 Project 2 Tableau
 ################################################################################
 
-**TLDR**:  
+**TLDR**: Analyzing 41,000+ passenger reviews from 100+ airlines, I built an interactive Tableau dashboard visualizing satisfaction trends across 8 service categories and 7 global regions to uncover actionable insights in critical improvement areas.
 
 **Description**: 
 
-**Skills**: 
+**Tools**: <img width="80" height="60" alt="image" src="https://github.com/user-attachments/assets/22fad4cd-af7c-4c31-a2cd-2844afd10593" />
+
+
+**Skills**: Dashboard Design | Trend Analysis | Customer Experience Metrics | Data Storytelling | Interactive Visualization | KPI Tracking
 
 **Link to Notebook**: 
 
