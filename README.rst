@@ -21,7 +21,10 @@ Analyzed manufacturing line productivity data to identify downtime factors, oper
 In this project, I conducted a comprehensive analysis of manufacturing line productivity data to assess the efficiency of operators and identify root causes of downtime in production batches. In particular, I calculated the average efficiency of each operator in order to identify the least productive ones. I also performed a Pareto analysis to determine the factors responsible for 80% of the reduction in efficiency. This allowed me to analyse the downtime of each operator in relation to the previously identified factors, enabling me to create a targeted programme to improve the efficiency of individual operators in areas where they are less efficient.
 
 **Tools**:  
-Excel  
+.. figure:: /images/Microsoft_Office_Excel.png
+    :align: right
+    :alt: alternate text
+    :figclass: align-right  
 
 **Skills**:  
 Pareto Analysis | Root Cause Diagnostics | Downtime Reduction Strategy | Preventive Maintenance Planning | KPI Tracking
