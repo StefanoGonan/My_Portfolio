@@ -44,7 +44,7 @@ Tableau
 **Skills**:  
 Dashboard Design | Trend Analysis | Customer Experience Metrics | KPI Tracking | Interactive Data Storytelling
 
-**Link to Notebook**: _(insert link here)_
+**Link to Notebook**: https://github.com/StefanoGonan/My_Portfolio/blob/main/The%2041%2C000-Foot%20View/airlines_project.twb
 
 -------------------------------------------------------------------------------
 
