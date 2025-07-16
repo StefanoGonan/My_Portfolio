@@ -45,35 +45,3 @@ Tableau
 Dashboard Design | Trend Analysis | Customer Experience Metrics | KPI Tracking | Interactive Data Storytelling
 
 **Link to Notebook**: https://github.com/StefanoGonan/My_Portfolio/blob/main/The%2041%2C000-Foot%20View/airlines_project.twb
-
--------------------------------------------------------------------------------
-
-Project 3: Power BI
-###################
-
-**Overview**:  
-
-**Description**:  
-
-**Tools**:  
-Power BI
-
-**Skills**:  
-
-**Link to Notebook**:  
-
--------------------------------------------------------------------------------
-
-Project 4: Python
-#################
-
-**Overview**:  
-
-**Description**:  
-
-**Tools**:  
-Python
-
-**Skills**:  
-
-**Link to Notebook**:  
