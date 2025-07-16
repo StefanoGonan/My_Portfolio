@@ -13,19 +13,19 @@ This repository and all projects within it were created by Stefano Gonan, PhD.
 ----------------------------------------------------------------------------
 
 ################################################################################
-Bottling Line Efficiency Rescue | Downtime Reduction Strategy
+Bottling Line Efficiency Rescue: Downtime Reduction Strategy
 ################################################################################
 
-**Overview**: In this project, I analyzed bottling line data to evaluate operator-specific efficiency, identified primary downtime causes using a Pareto approach, and quantified downtime by operator and factor through a matrix analysis. Based on these findings, I recommended targeted training programs and preventive maintenance practices to improve production efficiency and minimize downtime. 
+**Overview**: Analyzed manufacturing line productivity data to identify downtime factors, operator efficiency, and process bottlenecks. Built visualizations, pivot tables, and Pareto charts to highlight key inefficiencies and suggest improvements.
 
-**Description**: 
+**Description**: In this project, I conducted a comprehensive analysis of manufacturing line productivity data to assess the efficiency of operators and identify root causes of downtime in production batches. In particular, I calculated the average efficiency of each operator in order to identify the least productive ones. I also performed a Pareto analysis to determine the factors responsible for 80% of the reduction in efficiency. This allowed me to analyse the downtime of each operator in relation to the previously identified factors, enabling me to create a targeted programme to improve the efficiency of individual operators in areas where they are less efficient.
 
 **Tools**: <img width="18" height="20" alt="image" src="https://github.com/user-attachments/assets/00d8ee75-9b99-48d9-a32e-3f66b8ac5fa8" />
 
 
 
 
-**Skills**:
+**Skills**: Pareto Analysis | Root Cause Diagnostics | Downtime Reduction Strategy | Preventive Maintenance Planning | KPI Tracking
 
 **Link to Notebook**: 
 
