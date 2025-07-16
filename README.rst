@@ -25,7 +25,7 @@ In this project, I conducted a comprehensive analysis of manufacturing line prod
 **Skills**:  
 Pareto Analysis | Root Cause Diagnostics | Downtime Reduction Strategy | Preventive Maintenance Planning | KPI Tracking
 
-**Link to Notebook**: _(insert link here)_
+**Link to Notebook**: https://github.com/StefanoGonan/My_Portfolio/blob/main/Bottling%20Line%20Efficiency%20Rescue/Manufacturing_Line_Productivity.xlsx
 
 -------------------------------------------------------------------------------
 
