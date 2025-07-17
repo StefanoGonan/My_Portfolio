@@ -73,7 +73,7 @@ Power BI
 **Skills**:  
 Coming soon
 
-**Link to Notebook**: https://github.com/StefanoGonan/My_Portfolio/blob/main/The%2041%2C000-Foot%20View/airlines_project.twb
+**Link to Notebook**: https://github.com/StefanoGonan/My_Portfolio/blob/main/Olist/olist_project.pbix
 
 .. figure:: /images/olist_project_dashboard.png
     :align: right
