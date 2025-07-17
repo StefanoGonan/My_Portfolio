@@ -51,7 +51,7 @@ Dashboard Design | Trend Analysis | Customer Experience Metrics | KPI Tracking |
 
 **Link to Notebook**: https://github.com/StefanoGonan/My_Portfolio/blob/main/The%2041%2C000-Foot%20View/airlines_project.twb
 
-.. figure:: /images/The 41,000-Foot View.png
+.. figure:: /images/The_41,000-Foot_View.png
     :align: right
     :alt: alternate text
     :figclass: align-right
