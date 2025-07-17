@@ -27,7 +27,7 @@ Pareto Analysis | Root Cause Diagnostics | Downtime Reduction Strategy | Prevent
 
 **Link to Notebook**: https://github.com/StefanoGonan/My_Portfolio/blob/main/Bottling%20Line%20Efficiency%20Rescue
 
-.. figure:: /images/Bottling Line Efficiency Rescue.png
+.. figure:: /images/Bottling_Line_Efficiency_Rescue.png
     :align: right
     :alt: alternate text
     :figclass: align-right
