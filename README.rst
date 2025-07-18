@@ -65,7 +65,7 @@ Olist project
 Transformed information of 100k orders from 2016 to 2018 collected by Olist Store e-commerce company into useful visual insights for strategic decisions about sells, deliveries, and customer reviews.
 
 **Description**:  
-Coming soon
+In this project, based on 9 datasets the Brazilian e-commerce platform Olist, I developed a business intelligence dashboard using Microsoft Power BI, analyzing over 100,000 anonymized orders placed between 2016 and 2018. The analysis is structured across three dashboards: (1) the _Sales_ dashboard summarises total orders, sales, and feright values, also illustrating the temporal trend of both sales and freight, as well as the sales per product category; (2) the _Delivery Analysis_ dashboard investigates delivery performance, calculating on-time and late deliveries, average processing times, and the number of delayed orders per product category; (3) the _Product Quality_ dashboard focuses on customer satisfaction, identifying review patterns and highlighting best- and worst-rated product categories.
 
 **Tools**:  
 Power BI  
