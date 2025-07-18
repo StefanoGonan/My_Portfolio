@@ -38,7 +38,7 @@ The 41,000-Foot View: Decoding Airlines Passengers Satisfaction
 ###############################################################
 
 **Overview**:  
-Transformed 41,000+ Skytrax passenger reviews into an interactive Tableau dashboard for British Airways, identifying critical improvement areas across 8 service categories and 7 global regions.
+Transformed 41,000+ Skytrax passenger reviews into an interactive Tableau dashboard, identifying critical improvement areas across 8 service categories and 7 global regions for 100+ airlines.
 
 **Description**:  
 I developed a business intelligence dashboard analyzing 41,000+ passenger reviews from 100+ airlines to empower them with actionable customer experience insights. In particular, the interactive visualisation—based on the Skytrax Airline Reviews dataset—tracks satisfaction trends for a period of time ranging from 1970 to 2015 across 8 service categories—including cabin staff, seat comfort, and inflight entertainment—using dynamic filters for airline company, traveller type (e.g. business, leisure), seat type (e.g. economy, business, first class), and geographic regions.
@@ -62,7 +62,7 @@ Olist project
 ###############################################################
 
 **Overview**:  
-Coming soon
+Transformed information of 100k orders from 2016 to 2018
 
 **Description**:  
 Coming soon
@@ -71,7 +71,7 @@ Coming soon
 Power BI  
 
 **Skills**:  
-Coming soon
+Dashboard Design | Customer Experience Metrics | Interactive Data Storytelling
 
 **Link to Notebook**: https://github.com/StefanoGonan/My_Portfolio/blob/main/Olist/olist_project.pbix
 
