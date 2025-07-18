@@ -62,7 +62,7 @@ Olist project
 ###############################################################
 
 **Overview**:  
-Transformed information of 100k orders from 2016 to 2018
+Transformed information of 100k orders from 2016 to 2018 collected by Olist Store e-commerce company into useful visual insights for strategic decisions about sells, deliveries, and customer reviews.
 
 **Description**:  
 Coming soon
