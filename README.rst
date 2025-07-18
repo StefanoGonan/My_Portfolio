@@ -58,7 +58,7 @@ Dashboard Design | Trend Analysis | Customer Experience Metrics | KPI Tracking |
 
 -------------------------------------------------------------------------------
 
-Olist project
+Olist Store Insights: Unveiling E-Commerce Trends
 ###############################################################
 
 **Overview**:  
@@ -71,7 +71,7 @@ In this project, based on 9 datasets the Brazilian e-commerce platform Olist, I 
 Power BI  
 
 **Skills**:  
-Dashboard Design | Customer Experience Metrics | Interactive Data Storytelling
+Dashboard Design | Customer Experience Metrics | Time Series Analysis | Interactive Data Storytelling
 
 **Link to Notebook**: https://github.com/StefanoGonan/My_Portfolio/blob/main/Olist/olist_project.pbix
 
