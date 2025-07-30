@@ -34,6 +34,29 @@ Pareto Analysis | Root Cause Diagnostics | Downtime Reduction Strategy | Prevent
 
 -------------------------------------------------------------------------------
 
+From Bean to Business: Analyzing Coffee Sales Performance
+############################################################
+
+**Overview**:  
+
+
+**Description**:  
+
+
+**Tools**: Microsoft Excel
+
+**Skills**:  
+Pareto Analysis | Root Cause Diagnostics | Downtime Reduction Strategy | Preventive Maintenance Planning | KPI Tracking
+
+**Link to Notebook**: https://github.com/StefanoGonan/My_Portfolio/blob/main/Bottling%20Line%20Efficiency%20Rescue
+
+.. figure:: /images/From_Bean_To_Business.png
+    :align: right
+    :alt: alternate text
+    :figclass: align-right
+
+-------------------------------------------------------------------------------
+
 The 41,000-Foot View: Decoding Airlines Passengers Satisfaction
 ###############################################################
 
