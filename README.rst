@@ -37,11 +37,9 @@ Pareto Analysis | Root Cause Diagnostics | Downtime Reduction Strategy | Prevent
 From Bean to Business: Analyzing Coffee Sales Performance
 ############################################################
 
-**Overview**:  
+**Overview**: Analyzed coffee sales data across multiple markets to identify revenue drivers, customer patterns, and seasonal trends. Built dashboards, pivot tables, and visualizations to optimize business strategy.
 
-
-**Description**:  
-
+**Description**: In this project, I analyzed coffee sales performance using a multi-dimensional dataset covering customer demographics, product specifications, and transactions across the US, Ireland, and UK. I integrated three data sources (Orders, Customers, Products) using advanced Excel functions, calculated monthly sales trends identifying Arabica and Robusta as top revenue drivers, performed customer segmentation revealing loyalty cardholders as the highest-value segment, and conducted geographic analysis showing US market dominance. Through seasonal trend analysis, I identified distinct patterns for light and medium roast preferences, enabling inventory optimization. I created a top 5 customer dashboard for retention strategies and developed KPI tracking for ongoing performance monitoring.
 
 **Tools**: Microsoft Excel
 
