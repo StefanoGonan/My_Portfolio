@@ -46,7 +46,7 @@ From Bean to Business: Analyzing Coffee Sales Performance
 **Skills**:  
 Data Gathering | Data Transformation | Data Validation & Cleaning | Pivot Tables & Charts | Customer Segmentation Analysis | Revenue Optimization Strategy
 
-**Link to Notebook**: https://github.com/StefanoGonan/My_Portfolio/blob/main/Bottling%20Line%20Efficiency%20Rescue
+**Link to Notebook**: https://github.com/StefanoGonan/My_Portfolio/tree/main/From%20Bean%20to%20Business
 
 .. figure:: /images/From_Bean_To_Business.png
     :align: right
@@ -94,7 +94,7 @@ Power BI
 **Skills**:  
 Dashboard Design | Customer Experience Metrics | Time Series Analysis | Interactive Data Storytelling
 
-**Link to Notebook**: https://github.com/StefanoGonan/My_Portfolio/blob/main/Olist/olist_project.pbix
+**Link to Notebook**: https://github.com/StefanoGonan/My_Portfolio/blob/main/Olist%20Store%20Insights/olist_project.pbix
 
 .. figure:: /images/olist_project_dashboard.png
     :align: right
