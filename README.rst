@@ -39,12 +39,12 @@ From Bean to Business: Analyzing Coffee Sales Performance
 
 **Overview**: Analyzed coffee sales data across multiple markets to identify revenue drivers, customer patterns, and seasonal trends. Built dashboards, pivot tables, and visualizations to optimize business strategy.
 
-**Description**: In this project, I analyzed coffee sales performance using a multi-dimensional dataset covering customer demographics, product specifications, and transactions across the US, Ireland, and UK. I integrated three data sources (Orders, Customers, Products) using advanced Excel functions, calculated monthly sales trends identifying Arabica and Robusta as top revenue drivers, performed customer segmentation revealing loyalty cardholders as the highest-value segment, and conducted geographic analysis showing US market dominance. Through seasonal trend analysis, I identified distinct patterns for light and medium roast preferences, enabling inventory optimization. I created a top 5 customer dashboard for retention strategies and developed KPI tracking for ongoing performance monitoring.
+**Description**: In this project, I analyzed coffee sales performance using a multi-dimensional dataset covering customer demographics, product specifications, and transactions across the US, Ireland, and UK. I integrated three data sources using XLOOKUP and INDEX MATCH functions to populate order records with customer and product details. I implemented multiplication formulas for sales calculations and multiple IF functions for data categorization. After performing data cleaning (including duplicate checks and date/number formatting) I built comprehensive pivot tables and charts with timeline and slicer controls for interactive filtering. The analysis identified Arabica and Robusta as top revenue drivers, revealed loyalty cardholders as the highest-value segment, and showed US market dominance. I developed an integrated dashboard with dynamic data source updates, enabling real-time performance monitoring and strategic decision-making.
 
 **Tools**: Microsoft Excel
 
 **Skills**:  
-Pareto Analysis | Root Cause Diagnostics | Downtime Reduction Strategy | Preventive Maintenance Planning | KPI Tracking
+Data Gathering | Data Transformation | Data Validation & Cleaning | Pivot Tables & Charts | Customer Segmentation Analysis | Revenue Optimization Strategy
 
 **Link to Notebook**: https://github.com/StefanoGonan/My_Portfolio/blob/main/Bottling%20Line%20Efficiency%20Rescue
 
